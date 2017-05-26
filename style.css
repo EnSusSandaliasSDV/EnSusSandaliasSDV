@@ -1,6 +1,28 @@
 h1 {
-	font-size:24px ;
+	font-size:72px ;
 	text-align: center ;
 	color: #fff ;
 	background: #077 ;
+	padding: 1% ;
+
+	width: 100% ;
+	margin: 0px ;
+}
+#menu {
+	position: fixed ;
+	width: 100% ;
+}
+a.submenu {
+	background: #077 ;
+	width: 17% ;
+	display: inline-block ;
+	color: #000 ;
+	text-align: center ;
+	padding: 1% ;
+}
+a.submenu:hover {
+	background: #099 ;
+}
+div {
+	display: inline ;
 }
