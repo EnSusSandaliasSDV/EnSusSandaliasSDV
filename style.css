@@ -7,11 +7,12 @@ body {
 	margin: 0px ;
 }
 h1 {
-	font-size:60px ;
+	font-size:55px ;
 	text-align: center ;
 	color: #fff ;
 	background: #077 ;
-	padding: 10px ;
+	padding: 7px ;
+	padding-bottom: 4px ;
 	width: 100% ;
 	margin: 0px ;
 }
